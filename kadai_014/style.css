@@ -1,0 +1,37 @@
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+h1{
+    border-bottom: 3px solid rgb(115, 115, 114);
+    font-size: 40px;
+    letter-spacing:1.2em;
+    text-shadow: 3px 3px 5px pink;
+    
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+/*div #basic,#samuraitarou,#id9,#oblood  {
+    font-weight:bold;
+}*/
+
+#basic p {
+    font-weight:bold;
+}
+    
+h1.text-likefood {
+    border-bottom: 3px rgb(115, 115, 114);
+}
+
+h1 .text-blue, .text-birthday, .text-hobby, .text-reason{
+    color: skyblue;
+}
+
+h1 .text-pink, .text-name, .text-blood, .text-likefood {
+    color: rgb(255, 192, 203) 
+}
